@@ -1,0 +1,6 @@
+site_name: My Docs
+docs_dir: .
+pages:
+- Home: index.md
+- README: README.md
+- HOWTO: HOWTO.md
