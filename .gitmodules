@@ -1,0 +1,3 @@
+[submodule "documentation_submodule_test"]
+	path = documentation_submodule_test
+	url = https://github.com/daniametller/documentation_submodule_test.git
